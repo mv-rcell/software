@@ -4,10 +4,10 @@
 // ==========================
 
 const SUPABASE_URL =
-"https://tzygochlibduxubsblzd.supabase.co";
+"https://havgezztjyxquykcqlcs.supabase.co";
 
 const SUPABASE_ANON_KEY =
-"sb_publishable_GVnQsJLt8IzlyOUAL48Kmg_kdLxPzxH";
+"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imhhdmdlenp0anl4cXV5a2NxbGNzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODI3NzEyNzgsImV4cCI6MjA5ODM0NzI3OH0.3hj9Q9H1xqKwKhURrNdDVHWMyamttN1kKrTpcXEWvp0";
 
 const client = supabase.createClient(
     SUPABASE_URL,
